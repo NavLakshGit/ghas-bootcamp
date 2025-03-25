@@ -103,6 +103,3 @@ jobs:
       with:
         category: "/language:${{matrix.language}}"
 
-- run: |
-    echo "java version"
-    java -version
